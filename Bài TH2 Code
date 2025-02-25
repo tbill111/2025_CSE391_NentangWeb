@@ -41,7 +41,7 @@
         <h2>KHÓA HỌC SẮP KHAI GIẢNG</h2>
         <div class="course-list">
             <div class="course">
-                <img src="./img/course1.jpg" alt="Lập trình viên quốc tế">
+                <img src="Ảnh bài th2/ảnh 1.png" alt="Lập trình viên quốc tế">
                 <h4>LẬP TRÌNH VIÊN QUỐC TẾ</h4>
                 <p>Chương trình đào tạo chuẩn quốc tế và toàn diện. Phù hợp với học sinh tốt nghiệp THPT, sinh viên và người định hướng theo nghề lập trình chuyên nghiệp.</p>
                 <p>Học bổng: 15.000.000 VND</p>
@@ -49,7 +49,7 @@
                 <p>Thời lượng: 2 - 2.5 năm</p>
             </div>
             <div class="course">
-                <img src="./img/course2.jpg" alt="Lập Trình Web fullstack">
+                <img src="Ảnh bài th2/ảnh 2.png" alt="Lập Trình Web fullstack">
                 <h4>LẬP TRÌNH WEB FULLSTACK</h4>
                 <p>Khóa học phù hợp với người bắt đầu lập trình hoặc người chuyển nghề. Trang bị từ frontend đến backend, xây dựng website hoàn chỉnh sau khóa học.</p>
                 <p>Ưu đãi giảm 15% học phí</p>
@@ -57,7 +57,7 @@
                 <p>Thời lượng: 6 tháng</p>
             </div>
             <div class="course">
-                <img src="./img/course3.jpg" alt="Lập trình Java Fullstack">
+                <img src="Ảnh bài th2/ảnh 3.png" alt="Lập trình Java Fullstack">
                 <h4>LẬP TRÌNH JAVA FULLSTACK</h4>
                 <p>Phát triển ứng dụng web từ cơ bản đến nâng cao bằng Java, các ứng dụng doanh nghiệp sử dụng J2EE, Servlet, JSP, Spring Framework, EJB,...</p>
                 <p>Ưu đãi giảm 15% học phí</p>
@@ -65,7 +65,7 @@
                 <p>Thời lượng: 236 giờ</p>
             </div>
             <div class="course">
-                <img src="./img/course4.jpg" alt="Lập trình PHP & LARAVEL">
+                <img src="Ảnh bài th2/ảnh 4.png" alt="Lập trình PHP & LARAVEL">
                 <h4>Lập trình PHP & LARAVEL</h4>
                 <p>PHP là một trong các ngôn ngữ thiết kế web mạnh nhất. Khóa học trang bị kỹ năng xây dựng web hoàn chỉnh sử dụng PHP kết hợp Laravel Framework.</p>
                 <p>Ưu đãi giảm 15% học phí</p>
@@ -74,7 +74,7 @@
                 <p>Thời lượng: 36 giờ</p>
             </div>
             <div class="course">
-                <img src="./img/course5.jpg" alt="Lập trình .NET">
+                <img src="Ảnh bài th2/ảnh 5.png" alt="Lập trình .NET">
                 <h4>Lập trình .NET</h4>
                 <p>Phát triển ứng dụng web sử dụng nền tảng ASP.NET Core MVC. Để học tốt khóa học yêu cầu học viên đã có kiến thức C# và Frontend.</p>
                 <p>Khai giảng: 2/2024</p>
@@ -82,7 +82,7 @@
                 <p>Học phí: 6.000.000 VNĐ</p>
             </div>
             <div class="course">
-                <img src="./img/course6.jpg" alt="Lập trình SQL Server">
+                <img src="Ảnh bài th2/ảnh 6.png" alt="Lập trình SQL Server">
                 <h4>Lập trình SQL Server</h4>
                 <p>Trang bị những kiến thức nền tảng vững chắc về SQL Server như các kỹ thuật: lọc dữ liệu, phân tích, thiết kế và quản trị cơ sở dữ liệu,...</p>
                 <p>Khai giảng: 2/2024</p>
